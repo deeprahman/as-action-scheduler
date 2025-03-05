@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "WP",
+			"path": "../WP_Test_Setup/wordpress"
+		},
+		{
+			"path": "../WP_Test_Setup/wordpress-tests-lib/includes"
+		}
+	],
+	"settings": {
+		
+	}
+}
